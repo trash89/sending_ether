@@ -8,4 +8,6 @@ brownie compile
 brownie run scripts/deploy.py
 ```
 
+After deploying, in the hardhat console:
+
 ![Sending and receiving ether ](sending_receiving_ether.png)
